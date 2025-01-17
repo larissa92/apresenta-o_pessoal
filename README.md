@@ -24,8 +24,8 @@ Apresetação Pessoal, biografia
 ### Get in Touch
 Feel free to open an issue or a pull request if you have any questions or suggestions!
 
-![Descrição do GIF](URL_DO_GIF)
-![Moça sentada em frente a um computador](https://giphy.com/gifs/example.gif)
+![Descrição do GIF](https://media.giphy.com/media/JC9ZLmwdFvYwYvndsa/giphy.gif?cid=ecf05e47mplosb0nl351uf7sla3w44efe86khrcsi5zna1le&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Moça sentada em frente a um computador](https://tenor.com/tvMsv0AeoIn.gif)
 
 ---
 
